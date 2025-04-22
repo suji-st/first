@@ -1,0 +1,370 @@
+[10:11:16][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:11:16][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 708 ms
+[10:11:16][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:11:17][INFO ][FrameworkServlet.java: 554] - Completed initialization in 936 ms
+[10:11:26][INFO ][BoardController.java: 34] - btop3.do run...
+[10:11:26][INFO ][NoticeController.java: 47] - ntop3.do run...
+[10:11:27][INFO ][NoticeController.java: 51] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[10:11:27][INFO ][BoardController.java: 38] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[10:11:39][INFO ][MemberController.java: 125] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[10:11:39][INFO ][NoticeController.java: 47] - ntop3.do run...
+[10:11:39][INFO ][BoardController.java: 34] - btop3.do run...
+[10:11:39][INFO ][NoticeController.java: 51] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[10:11:39][INFO ][BoardController.java: 38] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[10:39:40][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:39:41][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 653 ms
+[10:39:41][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:39:42][INFO ][FrameworkServlet.java: 554] - Completed initialization in 846 ms
+[10:39:48][INFO ][BoardController.java: 34] - btop3.do run...
+[10:39:48][INFO ][NoticeController.java: 47] - ntop3.do run...
+[10:39:48][INFO ][NoticeController.java: 51] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[10:39:48][INFO ][BoardController.java: 38] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[10:39:55][INFO ][MemberController.java: 125] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[10:39:55][INFO ][BoardController.java: 34] - btop3.do run...
+[10:39:55][INFO ][NoticeController.java: 47] - ntop3.do run...
+[10:39:55][INFO ][BoardController.java: 38] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[10:39:55][INFO ][NoticeController.java: 51] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:53:19][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:53:19][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 637 ms
+[12:53:19][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:53:20][INFO ][FrameworkServlet.java: 554] - Completed initialization in 824 ms
+[12:53:38][INFO ][BoardController.java: 34] - btop3.do run...
+[12:53:38][INFO ][NoticeController.java: 47] - ntop3.do run...
+[12:53:38][INFO ][NoticeController.java: 51] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:53:38][INFO ][BoardController.java: 38] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[12:54:00][INFO ][MemberController.java: 127] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[12:54:00][INFO ][BoardController.java: 34] - btop3.do run...
+[12:54:00][INFO ][NoticeController.java: 47] - ntop3.do run...
+[12:54:00][INFO ][BoardController.java: 38] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[12:54:00][INFO ][NoticeController.java: 51] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[14:46:11][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[14:46:12][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 628 ms
+[14:46:12][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[14:46:13][INFO ][FrameworkServlet.java: 554] - Completed initialization in 858 ms
+[14:46:22][INFO ][BoardController.java: 34] - btop3.do run...
+[14:46:22][INFO ][NoticeController.java: 47] - ntop3.do run...
+[14:46:23][INFO ][NoticeController.java: 51] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[14:46:23][INFO ][BoardController.java: 38] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[14:46:35][INFO ][MemberController.java: 127] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[14:46:35][INFO ][BoardController.java: 34] - btop3.do run...
+[14:46:35][INFO ][NoticeController.java: 47] - ntop3.do run...
+[14:46:35][INFO ][BoardController.java: 38] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[14:46:35][INFO ][NoticeController.java: 51] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[14:57:17][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[14:57:17][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 496 ms
+[14:57:17][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[14:57:18][INFO ][FrameworkServlet.java: 554] - Completed initialization in 767 ms
+[15:02:49][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:02:49][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 501 ms
+[15:02:49][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:02:50][INFO ][FrameworkServlet.java: 554] - Completed initialization in 652 ms
+[15:04:37][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:04:38][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 460 ms
+[15:04:38][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:04:38][INFO ][FrameworkServlet.java: 554] - Completed initialization in 694 ms
+[15:05:00][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:05:01][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 450 ms
+[15:05:01][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:05:01][INFO ][FrameworkServlet.java: 554] - Completed initialization in 771 ms
+[15:05:34][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:05:34][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 478 ms
+[15:05:34][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:05:35][INFO ][FrameworkServlet.java: 554] - Completed initialization in 656 ms
+[15:09:30][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:09:30][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 459 ms
+[15:09:30][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:09:31][INFO ][FrameworkServlet.java: 554] - Completed initialization in 742 ms
+[15:11:40][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:11:40][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 529 ms
+[15:11:40][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:11:41][INFO ][FrameworkServlet.java: 554] - Completed initialization in 705 ms
+[15:12:24][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:12:25][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 427 ms
+[15:12:25][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:12:25][INFO ][FrameworkServlet.java: 554] - Completed initialization in 625 ms
+[15:33:33][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:33:33][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 439 ms
+[15:33:33][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:33:34][INFO ][FrameworkServlet.java: 554] - Completed initialization in 642 ms
+[15:35:32][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:35:32][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 437 ms
+[15:35:32][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:35:33][WARN ][AbstractApplicationContext.java: 635] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'noticeController': Unsatisfied dependency expressed through field 'noticeService': Error creating bean with name 'noticeService': Unsatisfied dependency expressed through field 'noticeDao': Error creating bean with name 'noticeDao': Lookup method resolution failed
+[15:35:33][ERROR][FrameworkServlet.java: 541] - Context initialization failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'noticeController': Unsatisfied dependency expressed through field 'noticeService': Error creating bean with name 'noticeService': Unsatisfied dependency expressed through field 'noticeDao': Error creating bean with name 'noticeDao': Lookup method resolution failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:788)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:146)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1445)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:347)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1155)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1121)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1056)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:706)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:672)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:720)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:595)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:537)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:169)
+	at jakarta.servlet.GenericServlet.init(GenericServlet.java:143)
+	at jakarta.servlet.http.HttpServlet.init(HttpServlet.java:121)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:837)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:794)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:698)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4224)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4511)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3261)
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:234)
+	at org.apache.catalina.core.StandardContext.backgroundProcess(StandardContext.java:4832)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'noticeService': Unsatisfied dependency expressed through field 'noticeDao': Error creating bean with name 'noticeDao': Lookup method resolution failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:788)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:146)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1445)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:347)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1609)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1555)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	... 43 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'noticeDao': Lookup method resolution failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.checkLookupMethods(AutowiredAnnotationBeanPostProcessor.java:498)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:368)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1320)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1215)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:347)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1609)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1555)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	... 56 more
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.myweb.first.notice.model.dao.NoticeDao] from ClassLoader [ParallelWebappClassLoader
+  context: first
+  delegate: false
+----------> Parent Classloader:
+java.net.URLClassLoader@5910e440
+]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483)
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.checkLookupMethods(AutowiredAnnotationBeanPostProcessor.java:476)
+	... 68 more
+Caused by: java.lang.NoClassDefFoundError: Paging
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465)
+	... 70 more
+Caused by: java.lang.ClassNotFoundException: Paging
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1378)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1187)
+	... 74 more
+[15:36:05][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:36:06][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 466 ms
+[15:36:06][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:36:06][WARN ][AbstractApplicationContext.java: 635] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'noticeController': Unsatisfied dependency expressed through field 'noticeService': Error creating bean with name 'noticeService': Unsatisfied dependency expressed through field 'noticeDao': Error creating bean with name 'noticeDao': Lookup method resolution failed
+[15:36:06][ERROR][FrameworkServlet.java: 541] - Context initialization failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'noticeController': Unsatisfied dependency expressed through field 'noticeService': Error creating bean with name 'noticeService': Unsatisfied dependency expressed through field 'noticeDao': Error creating bean with name 'noticeDao': Lookup method resolution failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:788)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:146)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1445)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:347)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1155)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1121)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1056)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:706)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:672)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:720)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:595)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:537)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:169)
+	at jakarta.servlet.GenericServlet.init(GenericServlet.java:143)
+	at jakarta.servlet.http.HttpServlet.init(HttpServlet.java:121)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:837)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:794)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:698)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4224)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4511)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3261)
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:234)
+	at org.apache.catalina.core.StandardContext.backgroundProcess(StandardContext.java:4832)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'noticeService': Unsatisfied dependency expressed through field 'noticeDao': Error creating bean with name 'noticeDao': Lookup method resolution failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:788)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:146)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1445)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:347)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1609)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1555)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	... 43 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'noticeDao': Lookup method resolution failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.checkLookupMethods(AutowiredAnnotationBeanPostProcessor.java:498)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:368)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1320)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1215)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:347)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1609)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1555)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	... 56 more
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.myweb.first.notice.model.dao.NoticeDao] from ClassLoader [ParallelWebappClassLoader
+  context: first
+  delegate: false
+----------> Parent Classloader:
+java.net.URLClassLoader@5910e440
+]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483)
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.checkLookupMethods(AutowiredAnnotationBeanPostProcessor.java:476)
+	... 68 more
+Caused by: java.lang.NoClassDefFoundError: Paging
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465)
+	... 70 more
+Caused by: java.lang.ClassNotFoundException: Paging
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1378)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1187)
+	... 74 more
+[15:36:18][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:36:18][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 485 ms
+[15:36:18][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:36:19][INFO ][FrameworkServlet.java: 554] - Completed initialization in 701 ms
+[15:36:51][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:36:52][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 501 ms
+[15:36:52][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:36:52][INFO ][FrameworkServlet.java: 554] - Completed initialization in 761 ms
+[15:52:48][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:52:48][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 621 ms
+[15:52:48][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:52:49][INFO ][FrameworkServlet.java: 554] - Completed initialization in 847 ms
+[15:53:01][INFO ][BoardController.java: 34] - btop3.do run...
+[15:53:01][INFO ][NoticeController.java: 48] - ntop3.do run...
+[15:53:01][INFO ][NoticeController.java: 52] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[15:53:01][INFO ][BoardController.java: 38] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[15:54:45][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:54:46][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 556 ms
+[15:54:46][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:54:46][INFO ][FrameworkServlet.java: 554] - Completed initialization in 700 ms
+[15:55:30][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:55:31][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 644 ms
+[15:55:31][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:55:31][INFO ][FrameworkServlet.java: 554] - Completed initialization in 819 ms
+[15:55:41][INFO ][BoardController.java: 34] - btop3.do run...
+[15:55:41][INFO ][NoticeController.java: 48] - ntop3.do run...
+[15:55:41][INFO ][BoardController.java: 38] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[15:55:41][INFO ][NoticeController.java: 52] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[16:00:47][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:00:48][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 509 ms
+[16:00:48][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:00:49][INFO ][FrameworkServlet.java: 554] - Completed initialization in 967 ms
+[16:01:53][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:01:54][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 444 ms
+[16:01:54][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:01:54][INFO ][FrameworkServlet.java: 554] - Completed initialization in 682 ms
+[16:11:31][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:11:32][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 447 ms
+[16:11:32][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:11:32][INFO ][FrameworkServlet.java: 554] - Completed initialization in 669 ms
+[16:13:09][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:13:09][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 450 ms
+[16:13:09][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:13:10][INFO ][FrameworkServlet.java: 554] - Completed initialization in 645 ms
+[16:27:44][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:27:44][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 457 ms
+[16:27:44][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:27:45][INFO ][FrameworkServlet.java: 554] - Completed initialization in 949 ms
+[16:29:11][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:29:11][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 501 ms
+[16:29:11][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:29:12][INFO ][FrameworkServlet.java: 554] - Completed initialization in 665 ms
+[16:29:55][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:29:56][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 439 ms
+[16:29:56][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:29:56][INFO ][FrameworkServlet.java: 554] - Completed initialization in 746 ms
+[16:32:27][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:32:27][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 427 ms
+[16:32:27][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:32:28][INFO ][FrameworkServlet.java: 554] - Completed initialization in 625 ms
+[16:32:50][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:32:51][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 482 ms
+[16:32:51][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:32:51][INFO ][FrameworkServlet.java: 554] - Completed initialization in 693 ms
+[16:33:56][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:33:57][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 462 ms
+[16:33:57][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:33:58][INFO ][FrameworkServlet.java: 554] - Completed initialization in 913 ms
+[16:35:24][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:35:24][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 470 ms
+[16:35:24][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:35:25][INFO ][FrameworkServlet.java: 554] - Completed initialization in 599 ms
+[16:48:58][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:48:59][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 628 ms
+[16:48:59][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:49:00][INFO ][FrameworkServlet.java: 554] - Completed initialization in 870 ms
+[16:49:05][INFO ][BoardController.java: 37] - btop3.do run...
+[16:49:05][INFO ][NoticeController.java: 48] - ntop3.do run...
+[16:49:06][INFO ][NoticeController.java: 52] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[16:49:06][INFO ][BoardController.java: 41] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]

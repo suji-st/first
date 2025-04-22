@@ -1,0 +1,176 @@
+[10:04:53][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:04:54][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 428 ms
+[10:04:54][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:04:54][INFO ][FrameworkServlet.java: 554] - Completed initialization in 725 ms
+[10:10:15][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:10:16][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 539 ms
+[10:10:16][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:10:16][INFO ][FrameworkServlet.java: 554] - Completed initialization in 711 ms
+[10:10:23][WARN ][DispatcherServlet.java: 1301] - No mapping for POST /first/btop3.do
+[10:10:23][INFO ][NoticeController.java: 47] - ntop3.do run...
+[10:10:23][WARN ][DefaultHandlerExceptionResolver.java: 459] - No endpoint POST /first/btop3.do.
+[10:10:24][INFO ][NoticeController.java: 51] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[10:49:52][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:49:52][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 412 ms
+[10:49:52][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:49:53][INFO ][FrameworkServlet.java: 554] - Completed initialization in 643 ms
+[10:50:35][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:50:36][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 382 ms
+[10:50:36][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:50:36][INFO ][FrameworkServlet.java: 554] - Completed initialization in 613 ms
+[10:52:52][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:52:52][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 358 ms
+[10:52:52][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:52:53][INFO ][FrameworkServlet.java: 554] - Completed initialization in 631 ms
+[10:54:59][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:54:59][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 375 ms
+[10:54:59][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:55:00][INFO ][FrameworkServlet.java: 554] - Completed initialization in 581 ms
+[11:11:49][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:11:50][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 356 ms
+[11:11:50][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:11:50][INFO ][FrameworkServlet.java: 554] - Completed initialization in 584 ms
+[11:11:52][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:11:53][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 584 ms
+[11:11:53][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:11:54][INFO ][FrameworkServlet.java: 554] - Completed initialization in 774 ms
+[11:12:08][INFO ][BoardController.java: 33] - btop3.do run...
+[11:12:08][INFO ][NoticeController.java: 47] - ntop3.do run...
+[11:12:08][INFO ][NoticeController.java: 51] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[11:12:08][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[11:18:38][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:18:39][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 539 ms
+[11:18:39][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:18:40][INFO ][FrameworkServlet.java: 554] - Completed initialization in 841 ms
+[11:18:51][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:18:51][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 387 ms
+[11:18:51][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:18:52][INFO ][FrameworkServlet.java: 554] - Completed initialization in 601 ms
+[11:19:03][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:19:04][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 355 ms
+[11:19:04][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:19:04][INFO ][FrameworkServlet.java: 554] - Completed initialization in 640 ms
+[11:20:13][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:20:14][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 547 ms
+[11:20:14][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:20:15][INFO ][FrameworkServlet.java: 554] - Completed initialization in 729 ms
+[11:20:22][INFO ][BoardController.java: 34] - btop3.do run...
+[11:20:22][INFO ][NoticeController.java: 47] - ntop3.do run...
+[11:20:22][INFO ][NoticeController.java: 51] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[11:20:22][INFO ][BoardController.java: 38] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[11:20:22][WARN ][DefaultHandlerExceptionResolver.java: 661] - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: Could not write JSON: Document nesting depth (1001) exceeds the maximum allowed (1000, from `StreamWriteConstraints.getMaxNestingDepth()`)
+[11:20:22][WARN ][AbstractHandlerExceptionResolver.java: 254] - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: Could not write JSON: Document nesting depth (1001) exceeds the maximum allowed (1000, from `StreamWriteConstraints.getMaxNestingDepth()`)]
+[11:23:16][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:23:16][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 554 ms
+[11:23:16][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:23:17][INFO ][FrameworkServlet.java: 554] - Completed initialization in 745 ms
+[11:23:27][INFO ][BoardController.java: 34] - btop3.do run...
+[11:23:27][INFO ][NoticeController.java: 47] - ntop3.do run...
+[11:23:27][INFO ][BoardController.java: 38] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[11:23:27][INFO ][NoticeController.java: 51] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[11:23:27][WARN ][DefaultHandlerExceptionResolver.java: 661] - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: Could not write JSON: Document nesting depth (1001) exceeds the maximum allowed (1000, from `StreamWriteConstraints.getMaxNestingDepth()`)
+[11:23:27][WARN ][AbstractHandlerExceptionResolver.java: 254] - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: Could not write JSON: Document nesting depth (1001) exceeds the maximum allowed (1000, from `StreamWriteConstraints.getMaxNestingDepth()`)]
+[11:25:25][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:25:26][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 427 ms
+[11:25:26][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:25:27][INFO ][FrameworkServlet.java: 554] - Completed initialization in 639 ms
+[11:25:29][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:25:29][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 555 ms
+[11:25:29][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:25:30][INFO ][FrameworkServlet.java: 554] - Completed initialization in 742 ms
+[11:25:38][INFO ][BoardController.java: 34] - btop3.do run...
+[11:25:38][INFO ][NoticeController.java: 47] - ntop3.do run...
+[11:25:38][INFO ][NoticeController.java: 51] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[11:25:38][INFO ][BoardController.java: 38] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[11:33:18][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:33:19][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 417 ms
+[11:33:19][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:33:19][INFO ][FrameworkServlet.java: 554] - Completed initialization in 631 ms
+[11:40:06][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:40:06][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 552 ms
+[11:40:06][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:40:07][INFO ][FrameworkServlet.java: 554] - Completed initialization in 779 ms
+[11:40:14][INFO ][BoardController.java: 34] - btop3.do run...
+[11:40:14][INFO ][NoticeController.java: 47] - ntop3.do run...
+[11:40:14][INFO ][NoticeController.java: 51] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[11:40:14][INFO ][BoardController.java: 38] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[11:41:02][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:41:02][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 440 ms
+[11:41:02][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:41:03][INFO ][FrameworkServlet.java: 554] - Completed initialization in 608 ms
+[11:41:11][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:41:11][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 560 ms
+[11:41:11][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:41:12][INFO ][FrameworkServlet.java: 554] - Completed initialization in 801 ms
+[11:41:22][INFO ][BoardController.java: 34] - btop3.do run...
+[11:41:22][INFO ][NoticeController.java: 47] - ntop3.do run...
+[11:41:23][INFO ][NoticeController.java: 51] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[11:41:23][INFO ][BoardController.java: 38] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[13:01:53][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[13:01:54][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 694 ms
+[13:01:54][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[13:01:55][INFO ][FrameworkServlet.java: 554] - Completed initialization in 899 ms
+[13:02:22][INFO ][BoardController.java: 34] - btop3.do run...
+[13:02:22][INFO ][NoticeController.java: 47] - ntop3.do run...
+[13:02:23][INFO ][NoticeController.java: 51] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[13:02:23][INFO ][BoardController.java: 38] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[13:02:28][INFO ][NoticeController.java: 47] - ntop3.do run...
+[13:02:28][INFO ][BoardController.java: 34] - btop3.do run...
+[13:02:28][INFO ][NoticeController.java: 51] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[13:02:28][INFO ][BoardController.java: 38] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[13:13:15][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[13:13:15][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 617 ms
+[13:13:15][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[13:13:16][INFO ][FrameworkServlet.java: 554] - Completed initialization in 835 ms
+[13:14:00][WARN ][DispatcherServlet.java: 1301] - No mapping for POST /first/enroll.do
+[13:14:00][WARN ][DefaultHandlerExceptionResolver.java: 459] - No endpoint POST /first/enroll.do.
+[13:14:17][WARN ][DispatcherServlet.java: 1301] - No mapping for POST /first/enroll.do
+[13:14:17][WARN ][DefaultHandlerExceptionResolver.java: 459] - No endpoint POST /first/enroll.do.
+[13:16:07][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[13:16:08][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 621 ms
+[13:16:08][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[13:16:09][INFO ][FrameworkServlet.java: 554] - Completed initialization in 851 ms
+[14:56:36][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[14:56:36][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 561 ms
+[14:56:36][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[14:56:37][INFO ][FrameworkServlet.java: 554] - Completed initialization in 758 ms
+[14:59:39][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[14:59:39][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 456 ms
+[14:59:39][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[14:59:40][INFO ][FrameworkServlet.java: 554] - Completed initialization in 730 ms
+[15:00:23][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:00:24][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 508 ms
+[15:00:24][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:00:24][INFO ][FrameworkServlet.java: 554] - Completed initialization in 733 ms
+[15:01:29][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:01:30][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 516 ms
+[15:01:30][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:01:30][INFO ][FrameworkServlet.java: 554] - Completed initialization in 694 ms
+[15:12:21][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:12:22][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 433 ms
+[15:12:22][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:12:22][INFO ][FrameworkServlet.java: 554] - Completed initialization in 639 ms
+[15:36:00][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:36:01][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 476 ms
+[15:36:01][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:36:02][INFO ][FrameworkServlet.java: 554] - Completed initialization in 790 ms
+[15:46:18][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:46:19][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 679 ms
+[15:46:19][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:46:20][INFO ][FrameworkServlet.java: 554] - Completed initialization in 1164 ms
+[15:46:25][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:46:26][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 630 ms
+[15:46:26][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:46:27][INFO ][FrameworkServlet.java: 554] - Completed initialization in 857 ms
+[16:04:54][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:04:55][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 554 ms
+[16:04:55][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:04:56][INFO ][FrameworkServlet.java: 554] - Completed initialization in 928 ms
+[16:05:28][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:05:29][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 445 ms
+[16:05:29][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:05:29][INFO ][FrameworkServlet.java: 554] - Completed initialization in 667 ms
+[16:06:05][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:06:06][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 681 ms
+[16:06:06][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:06:06][INFO ][FrameworkServlet.java: 554] - Completed initialization in 856 ms

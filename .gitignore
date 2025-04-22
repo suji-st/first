@@ -1,0 +1,20 @@
+# Eclipse 관련 설정 파일 
+/.settings/ 
+.project 
+.classpath 
+ 
+# 빌드 결과물 
+/target/ 
+bin/ 
+/build/ 
+ 
+# 로그파일 
+*.log 
+ 
+# 운영체제별 불필요 파일 
+.DS_Store 
+Thumbs.db 
+ 
+# 환경 변수 설정 파일 (필요시) 
+pom.xml 
+*.xml 
